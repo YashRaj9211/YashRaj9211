@@ -36,7 +36,8 @@ You can reach out to me through the following channels:
 
 Here's an overview of my GitHub statistics:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashRaj9211&show_icons=true&count_private=true&hide=stars,issues&theme=dark)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashRaj9211&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashRaj9211&show_icons=true&count_private=true&hide=stars,issues&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashRaj9211&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contributions
 
@@ -46,6 +47,9 @@ Here's an overview of my GitHub statistics:
 
 ![Repository Stats](https://img.shields.io/badge/dynamic/json?color=green&label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FYashRaj9211) 
 [![](https://visitcount.itsvg.in/api?id=YashRaj9211&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=YashRaj9211&theme=nord&no-frame=true&no-bg=true&margin-w=4)
 
 
 Let's create something amazing together!
