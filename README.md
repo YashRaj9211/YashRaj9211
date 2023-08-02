@@ -1,4 +1,9 @@
-# Hi there! 👋
+<p align="center" >
+  <img src="https://www.lambdatest.com/resources/images/news24.gif" >
+</p>
+
+
+# Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 
 Welcome to my GitHub profile! I'm Yash Raj, a passionate Web developer with experience in various web technologies such as React.js, Express, HTML, CSS, Javascript, Node.js, and MongoDB.
 
@@ -32,7 +37,7 @@ You can reach out to me through the following channels:
 - Email: prasadyashraj004@gmail.com
 - LinkedIn: [Yash Raj Sitaram Prasad](https://www.linkedin.com/in/yash-raj-sitaram-prasad-61baa127b/)
 
-## 📊 GitHub Analytics
+## GitHub Analytics <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>  
 
 Here's an overview of my GitHub statistics:
 
